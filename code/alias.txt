@@ -8,4 +8,12 @@ phone = rtsp://192.168.1.135:5540/ch0
 
 tv = http://america-crtvg.flumotion.com/playlist.m3u8
 
+<<<<<<< Updated upstream
+=======
+phoneuni = rtsp://155.54.14.68:5540/ch0
+
+mimovil = http://172.19.165.129:8080/video
+
+tve1 = http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+>>>>>>> Stashed changes
 
