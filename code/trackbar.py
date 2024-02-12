@@ -11,6 +11,7 @@ cv.namedWindow("binary")
 cv.createTrackbar("umbral", "binary", 128, 255, nada)
 
 for key, frame in autoStream():
+    cv.imshow('original', frame )
     #print(frame)
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
     #print(gray)
